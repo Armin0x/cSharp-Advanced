@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.exe
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.deps.json
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.runtimeconfig.json
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.dll
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\bin\Debug\netcoreapp3.1\WorkingDaySchedule.pdb
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.dll
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.pdb
+C:\Users\Lenovo\source\repos\WorkingDaySchedule\WorkingDaySchedule\obj\Debug\netcoreapp3.1\WorkingDaySchedule.genruntimeconfig.cache
