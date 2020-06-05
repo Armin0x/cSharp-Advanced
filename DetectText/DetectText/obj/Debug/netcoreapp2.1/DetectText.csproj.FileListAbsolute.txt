@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\DetectText\DetectText\bin\Debug\netcoreapp2.1\DetectText.deps.json
+C:\Users\Lenovo\source\repos\DetectText\DetectText\bin\Debug\netcoreapp2.1\DetectText.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DetectText\DetectText\bin\Debug\netcoreapp2.1\DetectText.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\DetectText\DetectText\bin\Debug\netcoreapp2.1\DetectText.dll
+C:\Users\Lenovo\source\repos\DetectText\DetectText\bin\Debug\netcoreapp2.1\DetectText.pdb
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.dll
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.pdb
+C:\Users\Lenovo\source\repos\DetectText\DetectText\obj\Debug\netcoreapp2.1\DetectText.genruntimeconfig.cache
